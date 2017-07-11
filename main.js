@@ -23,6 +23,7 @@ function Ball(x, y, velX, velY, color, size) {
   this.color = color;
   this.size = size;
 }
+//define it
 
 // define ball draw method
 
